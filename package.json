@@ -1,0 +1,23 @@
+{
+  "name": "qemu-log",
+  "version": "0.1.0",
+  "description": "QEMU log parsing utility",
+  "bin": {
+    "qemu-log": "bin/cli.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "clie": "0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:organix/qemu-log.git"
+  },
+  "keywords": [
+    "qemu",
+    "log",
+    "parser"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
