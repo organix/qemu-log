@@ -1,8 +1,6 @@
 # qemu-log
 
-    Stability: 1 - Experimental
-
-_Stability as defined by [Node.js](http://nodejs.org/api/documentation.html#documentation_stability_index)_
+_Stability: 1 - [Experimental](https://github.com/tristanls/stability-index#stability-1---experimental)_
 
 QEMU log parsing utility.
 
